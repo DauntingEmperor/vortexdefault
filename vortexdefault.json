@@ -1,0 +1,26 @@
+{
+  "repoName": "Default Repository",
+  "repoIcon": "assets/repo_icon.png",
+  "repoBanner": "assets/repo_banner.png",
+  "repoDescription": "Welcome to the Default Repository! Discover various apps and shortcuts for your Vortex experience.",
+  "downloads": [
+    {
+      "name": "App 1",
+      "description": "Description of App 1",
+      "type": "app",
+      "version": "1.0.0",
+      "icon": "assets/app1_icon.png",
+      "image": "assets/app1_image.png",
+      "installLink": "https://example.com/app1"
+    },
+    {
+      "name": "Shortcut 1",
+      "description": "Description of Shortcut 1",
+      "type": "shortcut",
+      "version": "1.0.0",
+      "icon": "assets/shortcut1_icon.png",
+      "image": "assets/shortcut1_image.png",
+      "installLink": "https://example.com/shortcut1"
+    }
+  ]
+}

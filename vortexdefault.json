@@ -1,26 +1,26 @@
 {
   "repoName": "Default Repository",
-  "repoIcon": "assets/repo_icon.png",
-  "repoBanner": "assets/repo_banner.png",
+  "repoIcon": "https://www.google.com/imgres?q=icon&imgurl=https%3A%2F%2Fcdn-icons-png.flaticon.com%2F512%2F2815%2F2815428.png&imgrefurl=https%3A%2F%2Fwww.flaticon.com%2Ffree-icon%2Fperson_2815428&docid=SE8KMbpZeMWB4M&tbnid=prU1OsesbXY4VM&vet=12ahUKEwjSsd-Jw96HAxWDPDQIHTM0NXIQM3oECGMQAA..i&w=512&h=512&hcb=2&ved=2ahUKEwjSsd-Jw96HAxWDPDQIHTM0NXIQM3oECGMQAA",
+  "repoBanner": "https://www.google.com/imgres?q=icon&imgurl=https%3A%2F%2Fcdn-icons-png.flaticon.com%2F512%2F2815%2F2815428.png&imgrefurl=https%3A%2F%2Fwww.flaticon.com%2Ffree-icon%2Fperson_2815428&docid=SE8KMbpZeMWB4M&tbnid=prU1OsesbXY4VM&vet=12ahUKEwjSsd-Jw96HAxWDPDQIHTM0NXIQM3oECGMQAA..i&w=512&h=512&hcb=2&ved=2ahUKEwjSsd-Jw96HAxWDPDQIHTM0NXIQM3oECGMQAA",
   "repoDescription": "Welcome to the Default Repository! Discover various apps and shortcuts for your Vortex experience.",
   "downloads": [
     {
-      "name": "App 1",
-      "description": "Description of App 1",
+      "name": "App",
+      "description": "Test APP",
       "type": "app",
       "version": "1.0.0",
-      "icon": "assets/app1_icon.png",
-      "image": "assets/app1_image.png",
-      "installLink": "https://example.com/app1"
+      "icon": "https://www.google.com/imgres?q=icon&imgurl=https%3A%2F%2Fcdn-icons-png.flaticon.com%2F512%2F2815%2F2815428.png&imgrefurl=https%3A%2F%2Fwww.flaticon.com%2Ffree-icon%2Fperson_2815428&docid=SE8KMbpZeMWB4M&tbnid=prU1OsesbXY4VM&vet=12ahUKEwjSsd-Jw96HAxWDPDQIHTM0NXIQM3oECGMQAA..i&w=512&h=512&hcb=2&ved=2ahUKEwjSsd-Jw96HAxWDPDQIHTM0NXIQM3oECGMQAA",
+      "image": "https://www.google.com/imgres?q=icon&imgurl=https%3A%2F%2Fcdn-icons-png.flaticon.com%2F512%2F2815%2F2815428.png&imgrefurl=https%3A%2F%2Fwww.flaticon.com%2Ffree-icon%2Fperson_2815428&docid=SE8KMbpZeMWB4M&tbnid=prU1OsesbXY4VM&vet=12ahUKEwjSsd-Jw96HAxWDPDQIHTM0NXIQM3oECGMQAA..i&w=512&h=512&hcb=2&ved=2ahUKEwjSsd-Jw96HAxWDPDQIHTM0NXIQM3oECGMQAA",
+      "installLink": "https://www.google.com/imgres?q=icon&imgurl=https%3A%2F%2Fcdn-icons-png.flaticon.com%2F512%2F2815%2F2815428.png&imgrefurl=https%3A%2F%2Fwww.flaticon.com%2Ffree-icon%2Fperson_2815428&docid=SE8KMbpZeMWB4M&tbnid=prU1OsesbXY4VM&vet=12ahUKEwjSsd-Jw96HAxWDPDQIHTM0NXIQM3oECGMQAA..i&w=512&h=512&hcb=2&ved=2ahUKEwjSsd-Jw96HAxWDPDQIHTM0NXIQM3oECGMQAA"
     },
     {
       "name": "Shortcut 1",
       "description": "Description of Shortcut 1",
       "type": "shortcut",
       "version": "1.0.0",
-      "icon": "assets/shortcut1_icon.png",
-      "image": "assets/shortcut1_image.png",
-      "installLink": "https://example.com/shortcut1"
+      "icon": "https://www.google.com/imgres?q=icon&imgurl=https%3A%2F%2Fcdn-icons-png.flaticon.com%2F512%2F2815%2F2815428.png&imgrefurl=https%3A%2F%2Fwww.flaticon.com%2Ffree-icon%2Fperson_2815428&docid=SE8KMbpZeMWB4M&tbnid=prU1OsesbXY4VM&vet=12ahUKEwjSsd-Jw96HAxWDPDQIHTM0NXIQM3oECGMQAA..i&w=512&h=512&hcb=2&ved=2ahUKEwjSsd-Jw96HAxWDPDQIHTM0NXIQM3oECGMQAA",
+      "image": "https://www.google.com/imgres?q=icon&imgurl=https%3A%2F%2Fcdn-icons-png.flaticon.com%2F512%2F2815%2F2815428.png&imgrefurl=https%3A%2F%2Fwww.flaticon.com%2Ffree-icon%2Fperson_2815428&docid=SE8KMbpZeMWB4M&tbnid=prU1OsesbXY4VM&vet=12ahUKEwjSsd-Jw96HAxWDPDQIHTM0NXIQM3oECGMQAA..i&w=512&h=512&hcb=2&ved=2ahUKEwjSsd-Jw96HAxWDPDQIHTM0NXIQM3oECGMQAA",
+      "installLink": "https://www.google.com/imgres?q=icon&imgurl=https%3A%2F%2Fcdn-icons-png.flaticon.com%2F512%2F2815%2F2815428.png&imgrefurl=https%3A%2F%2Fwww.flaticon.com%2Ffree-icon%2Fperson_2815428&docid=SE8KMbpZeMWB4M&tbnid=prU1OsesbXY4VM&vet=12ahUKEwjSsd-Jw96HAxWDPDQIHTM0NXIQM3oECGMQAA..i&w=512&h=512&hcb=2&ved=2ahUKEwjSsd-Jw96HAxWDPDQIHTM0NXIQM3oECGMQAA"
     }
   ]
 }
